@@ -1,7 +1,7 @@
 VHDL
 ====
 
-VHDL samples from project in school
+VHDL samples from school projects.
 
 
 8bit-calculator
