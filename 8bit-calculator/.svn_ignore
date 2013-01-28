@@ -1,0 +1,9 @@
+.*.swp
+*.o
+work
+calc
+*.wlf
+*.mpf
+*.mti
+*.wav
+*.cf
